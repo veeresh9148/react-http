@@ -1,0 +1,18 @@
+{
+  "details": [
+    {
+      "name": "veeresh",
+      "age": 23,
+      "salary": 300000,
+      "position": "react-developer",
+      "id": 1
+    },
+    {
+      "name": "alice",
+      "age": "25",
+      "salary": "500000",
+      "position": "engineer",
+      "id": 2
+    }
+  ]
+}

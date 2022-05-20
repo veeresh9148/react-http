@@ -1,0 +1,20 @@
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto;
+    background-color:rgba(142, 206, 255, 0.915);
+    padding: 10px;
+    row-gap: 40px;
+    /* column-gap: 40px; */
+  }
+  .grid-item {
+    background-color:  #f1cdff;
+    border: 1px solid rgba(0, 3, 9, 0.615);
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    font-style:normal;
+    
+  }
+   .body{
+    background-color:  #4f616c;
+  } 
